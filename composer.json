@@ -1,5 +1,5 @@
 {
-    "name": "lenovo/test-pkg",
+    "name": "august/test-pkg",
     "description": "This is a test for publishing package on packagist.org",
     "type": "composer-plugin",
     "license": "MIT",
